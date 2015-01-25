@@ -7,7 +7,11 @@ Rails.application.routes.draw do
   
   root 'static_pages#index'
   resources :tweets
- devise_for :users
+  devise_for :users
+
+  resources :profiles
+
+
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
 
