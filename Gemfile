@@ -28,6 +28,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'simple_form'
 
 gem 'devise', '~> 3.4.0'
+
+gem 'carrierwave'
 # Use Unicorn as the app server
 # gem 'unicorn'
 
