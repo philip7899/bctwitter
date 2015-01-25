@@ -32,7 +32,7 @@ gem 'devise', '~> 3.4.0'
 gem 'carrierwave'
 # Use Unicorn as the app server
 # gem 'unicorn'
-
+gem 'twitter-text', '~> 1.10.0'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
